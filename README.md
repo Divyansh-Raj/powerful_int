@@ -1,1 +1,3 @@
-# powerful_int
+project for powerful integer
+Author -- Divyansh Raj Gupta
+
